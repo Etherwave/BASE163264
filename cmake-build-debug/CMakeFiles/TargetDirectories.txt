@@ -1,0 +1,3 @@
+/home/amzing/c++/BASE163264/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/amzing/c++/BASE163264/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/amzing/c++/BASE163264/cmake-build-debug/CMakeFiles/BASE163264.dir

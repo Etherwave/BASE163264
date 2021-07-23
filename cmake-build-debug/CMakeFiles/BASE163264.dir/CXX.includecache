@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/amzing/c++/BASE163264/BASEXX.cpp
+BASEXX.h
+/home/amzing/c++/BASE163264/BASEXX.h
+
+/home/amzing/c++/BASE163264/BASEXX.h
+iostream
+-
+string
+-
+string.h
+-
+
+/home/amzing/c++/BASE163264/main.cpp
+BASEXX.h
+/home/amzing/c++/BASE163264/BASEXX.h
+
